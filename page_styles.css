@@ -1,0 +1,28 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+}
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  src: url(OEBPS/font/Poppins-Bold.ttf);
+}
+@font-face {
+  font-family: "Poppins Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url(OEBPS/font/Poppins-Medium.ttf);
+}
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  src: url(OEBPS/font/Poppins-Regular.ttf);
+}
+@font-face {
+  font-family: "Poppins SemiBold";
+  font-style: normal;
+  font-weight: 600;
+  src: url(OEBPS/font/Poppins-SemiBold.ttf);
+}
